@@ -1,0 +1,3 @@
+[submodule "bill-nextcloud"]
+	path = bill-nextcloud
+	url = https://github.com/LC208/bill-nextcloud
